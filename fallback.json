@@ -1,0 +1,10 @@
+{
+  "articles": [
+    {
+      "title": "App offline",
+      "url": "",
+      "urlToImage": "images/logo_teste.png",
+      "description": "Tente carregar o app quando estiver online"
+    }
+  ]
+}
